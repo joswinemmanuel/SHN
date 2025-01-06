@@ -1,1 +1,1 @@
-<h1> A repo for Saturday Hack Night<h1>
+<h1> A repository for Saturday Hack Night<h1>
